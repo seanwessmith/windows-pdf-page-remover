@@ -52,3 +52,6 @@ Before using the script, ensure that the following tools are installed and acces
    ```powershell
    pdfinfo -v
    pdftk --version
+
+## Passing Test
+![Screenshot 2025-01-03 at 5 21 00 PM](https://github.com/user-attachments/assets/95485756-bf8d-4649-a7a6-6def5527408b)
